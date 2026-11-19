@@ -4537,7 +4537,7 @@
 		(layer "Edge.Cuts")
 		(uuid "3cf6dc22-965d-426f-ba77-3cf41cd86ce2")
 	)
-	(gr_text "(`'`'`'`')\n\n     |      |\n\n     |      |\n\n    (|-()()-|)\n\n     | (__) |\n\n     |      |\n\n     |______|"
+	(gr_text "(`'`'`'`')\n |      |\n(|-()()-|)\n | (__) |\n |______|"
 		(at 91 121 0)
 		(layer "F.SilkS")
 		(uuid "306acba7-705d-4d11-8387-cf84316d6f27")
