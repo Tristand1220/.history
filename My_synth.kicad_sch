@@ -5402,7 +5402,7 @@
 				)
 			)
 		)
-		(property "Value" "10kΩ"
+		(property "Value" "1MΩ"
 			(at 111.76 130.81 90)
 			(show_name no)
 			(do_not_autoplace no)
