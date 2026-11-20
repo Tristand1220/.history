@@ -5019,7 +5019,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.cuidevices.com/product/resource/pj-009a.pdf"
 			(at 67.31 60.96 0)
 			(hide yes)
 			(show_name no)
